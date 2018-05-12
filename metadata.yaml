@@ -1,0 +1,44 @@
+_repo: Csongr-dmegyei-gy-jt-s--N-pk-lt-si-gy-jtem-ny-2.-k-tet-_43324
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Török, Károly
+    alias: Torok, Karoly
+    birthdate: 1843
+    deathdate: 1875
+    gutenberg_agent_id: '42134'
+    url: http://www.gutenberg.org/2009/agents/42134
+  editors:
+  - agent_name: Gyulai, Pál
+    alias: Gyulai, Pal
+    birthdate: 1826
+    deathdate: 1909
+    gutenberg_agent_id: '42135'
+    url: http://www.gutenberg.org/2009/agents/42135
+    wikipedia: http://hu.wikipedia.org/wiki/Gyulai_P%C3%A1l_%28irodalomt%C3%B6rt%C3%A9n%C3%A9sz%29
+  - agent_name: Arany, László
+    alias: Arany, Laszlo
+    birthdate: 1844
+    deathdate: 1898
+    gutenberg_agent_id: '39683'
+    url: http://www.gutenberg.org/2009/agents/39683
+    wikipedia: http://hu.wikipedia.org/wiki/Arany_L%C3%A1szl%C3%B3
+description: ''
+gutenberg_issued: '2013-07-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43324'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folk literature, Hungarian'
+- !lcc 'PH'
+- !lcc 'GR'
+- !lcsh 'Hungarian poetry'
+title: Csongrádmegyei gyüjtés (Népköltési gyüjtemény 2. kötet)
+url: http://www.gutenberg.org/ebooks/43324
