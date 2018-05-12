@@ -27,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39683
     wikipedia: http://hu.wikipedia.org/wiki/Arany_L%C3%A1szl%C3%B3
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43324#Csongr-dmegyei-gy-jt-s--N-pk-lt-si-gy-jtem-ny-2.-k-tet-
 gutenberg_issued: '2013-07-27'
 gutenberg_type: Text
 identifiers:
